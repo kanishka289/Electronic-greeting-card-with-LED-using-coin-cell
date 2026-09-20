@@ -26,5 +26,12 @@ The battery supplies the DC power to the circuit. When the circuit closes, curre
 * Avoid short-circuiting the battery.
 * Ensure all connections are tight and secure.
 
+## SIMULATION MODEL
+  ![LED SIMULATION](LED20%SIMULATION.jpg)
+
+## GREETING CARD
+  ![Greeting Card](Greeting%20card.jpg)
+  
+
 
 
